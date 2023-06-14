@@ -23,6 +23,7 @@
     "next": "^13.4.5",
     "react": "^18.2.0",
     "react-confetti": "^6.1.0",
+    "react-devtools": "^2.1.7",
     "react-dom": "^18.2.0",
     "react-firebase-hooks": "^5.1.1",
     "react-hooks": "^1.0.1",
